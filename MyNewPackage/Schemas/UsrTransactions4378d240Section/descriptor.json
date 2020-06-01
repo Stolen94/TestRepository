@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0a9b45f5-3e32-4ce0-83f2-d76f8a9c4cb5",
+    "Name": "UsrTransactions4378d240Section",
+    "ModifiedOnUtc": "\/Date(1590041973000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Транзакции\"",
+    "DependsOn": []
+  }
+}

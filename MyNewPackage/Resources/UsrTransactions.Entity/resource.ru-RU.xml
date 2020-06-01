@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Транзакции" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.UsrTransactionsComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrTransactionsContact.Caption" Value="Контакт" />
+			<Item Name="Columns.UsrTransactionsCounteragent.Caption" Value="Контрагент" />
+			<Item Name="Columns.UsrTransactionsCurrency.Caption" Value="Валюта" />
+			<Item Name="Columns.UsrTransactionsDate.Caption" Value="Дата" />
+			<Item Name="Columns.UsrTransactionsDirection.Caption" Value="Направление" />
+			<Item Name="Columns.UsrTransactionSum.Caption" Value="Сумма" />
+			<Item Name="EventsProcessSchema.Caption" Value="Транзакции" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_f29938e954a442e7885ffb517d42bb54.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_f29938e954a442e7885ffb517d42bb54.Lanes.Lane_7cd87bed73f4497da5a84cbac6f935de.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrSumAllTransactions.Caption" Value="Сумма транзакций" />
+			<Item Name="Columns.UsrTransactionsSum.Caption" Value="Сумма по транзакциям" />
+			<Item Name="Columns.UsrTransactionsSum1.Caption" Value="Сумма по транзакциям" />
+		</Items>
+	</Group>
+</Resources>

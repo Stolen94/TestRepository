@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6d36cb6b-26ee-4b96-8829-1f140c0e4f25",
+    "Name": "UsrTransactionsType",
+    "ModifiedOnUtc": "\/Date(1590039893000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Base lookup",
+    "DependsOn": []
+  }
+}

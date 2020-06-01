@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2d0c0435-3569-4111-9178-71a7463b2ccb",
+    "Name": "UsrTransactionsTag",
+    "ModifiedOnUtc": "\/Date(1590041985000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Транзакции",
+    "DependsOn": []
+  }
+}

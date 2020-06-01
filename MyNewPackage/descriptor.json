@@ -1,0 +1,20 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb13c864-9764-4eb0-b823-2a8e6a7b4644",
+    "Name": "MyNewPackage",
+    "ModifiedOnUtc": "\/Date(1590038625000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "0ece3a34-413f-415b-919b-7b29bb31701f",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_Obsolete"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
